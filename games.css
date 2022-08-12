@@ -90,6 +90,8 @@ a:hover{
     padding: auto;
 }
 
+
+
 @media all  and (max-width: 960px)
 {
     .mainsec{
@@ -100,10 +102,17 @@ a:hover{
     }
     .items{
         font-size: 15px;
-        padding: 0.2rem;
+        padding: 0.5rem;
     }
     .logo{
         width: 50px;
         
     }
+    .gamesimg img{
+
+        width: 290px;
+        height: 175px;
+        
+    }
+    
 }
