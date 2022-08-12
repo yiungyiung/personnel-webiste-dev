@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "website-9a819"
-  }
+  },
+  "targets": {
+    "website-9a819": {
+      "hosting": {
+        "website-9a819": [
+          "website-9a819"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
